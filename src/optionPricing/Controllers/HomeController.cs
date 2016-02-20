@@ -26,7 +26,12 @@ namespace optionPricing.Controllers
 
             return View();
         }
+        public IActionResult Options()
+        {
+            ViewData["Message"] = "Options Calculator";
 
+            return View();
+        }
         public IActionResult Error()
         {
             return View();

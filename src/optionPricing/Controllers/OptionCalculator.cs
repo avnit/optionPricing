@@ -8,7 +8,7 @@ using Microsoft.AspNet.Mvc;
 
 namespace optionPricing.Controllers
 {
-    public class OprionCalculator : Controller
+    public class OptionCalculator : Controller
     {
         // GET: /<controller>/
         public IActionResult Index()

@@ -18,7 +18,6 @@
     <DnxInvisibleContent Include="bower.json" />
     <DnxInvisibleContent Include=".bowerrc" />
     <DnxInvisibleContent Include="package.json" />
-    <DnxInvisibleContent Include="Views\Home\Options.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <DnxInvisibleCompile Include="Controllers\OprionCalculator.cs" />
