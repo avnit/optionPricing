@@ -7,7 +7,7 @@ There is a huge market to outsource work from US and UK to India.
 In our view that market will be replaced by companies opening their workshops in India. 
 This provides us the opportunity to open offices in India and set them up for the US and UK companies.
 There are lots of things that the Indian markets are missing, which makes it difficult for US and UK companies to open an office in India. 
-We will be one shop where US and UK companies will come and ask us to open a whole office in India. 
+We will be one stop shop where US and UK companies will come and ask us to open a whole office in India. 
 The firm will provide the following services. 
 
 1.	Find a reasonably priced office space with full service internet and phone. Pay all bills for property and fixed assets in India. 
