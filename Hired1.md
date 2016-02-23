@@ -1,6 +1,7 @@
-Hired1 Marketing Plan
-Avnit Bambah
-Introduction 
+#Hired1 Marketing Plan
+####Avnit Bambah
+#Introduction 
+=============
 Indian outsourcing business is at its boom since 2001 and market share contributed to GDP has grown to 45%. 
 There is a huge market to outsource work from US and UK to India. 
 In our view that market will be replaced by companies opening their workshops in India. 
@@ -20,9 +21,9 @@ The firm will provide the following services.
 9.	Monthly online expense report and Live camera feed of office. 
 
 Industry Analysis 
-
+==================
 MARKET SUMMARY
-
+==============
 Market: Past, Present, and Future
 Review changes in the market, which can include:
 •	Market share.
