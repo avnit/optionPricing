@@ -18,7 +18,7 @@ The firm will provide the following services.
 6.	Marketing of company products in India and South East Asia. 
 7.	Air Fare and relocation assistance 
 8.	Manage companies, trade fairs. 
-9.	Monthly online expense report and Live camera feed of office. 
+9.	Monthly online expense report and Live camera feed of the office. 
 
 Industry Analysis 
 ==================
