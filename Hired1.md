@@ -1,12 +1,12 @@
-#Hired1 Marketing Plan
+#Hired1 Marketing Plan ( Business Services ) 
 ####Avnit Bambah
 #Introduction 
 =============
-Indian outsourcing business is at its boom since 2001 and market share contributed to GDP has grown to 45%. 
+Indian outsourcing business is at its boom since 2001 and market share contributed by outsourcing companies to Indian GDP has grown to 45%. 
 There is a huge market to outsource work from US and UK to India. 
-In our view,outsourcing firm market will be replaced by companies opening their workshops in India. 
+In our view,outsourcing firms will be replaced by companies opening their workshops/Offices in India. 
 This provides us with the opportunity to open offices in India and set them up for the US and UK companies.
-There are lots of things that the Indian markets are missing, which makes it difficult for US and UK companies to open an office in India. 
+There are lots of things that the Indian markets are missing, which makes it difficult for US and UK companies to open an office in India and hence make it easier for them to outsource work to these companies.  
 We will be one stop shop where US and UK companies will come and ask us to open a whole office in India. 
 The firm will provide the following services. 
 
