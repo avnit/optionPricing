@@ -105,13 +105,16 @@ Discuss:
 •	Form-factor, pricing, look, and strategy.
 •	Fulfillment issues for items not shipped directly with the product.
 COGs
+====
 Summarize cost of goods and high-level bill of materials.
 PRICING AND POLICIES
+======================
 Pricing
 Summarize specific pricing or pricing strategies, and compare to similar products.
 Policies
 Summarize policies relevant to understanding key pricing issues.
 DISTRIBUTION
+================
 Distribution Strategy
 Summarize the strategy for distribution.
 Channels of Distribution
@@ -120,29 +123,36 @@ Distribution by Channel
 Illustrate what percentage of distribution will be contributed by each channel. A pie chart might be helpful.
  
 VERTICAL MARKETS/SEGMENTS
+===========================
 Discuss vertical market opportunities:
 •	Discuss specific market segment opportunities.
 •	Address distribution strategies for those markets or segments.
 •	Address use of third-party partners in distributing to vertical markets.
 INTERNATIONAL
+=================
 International Distribution
 Discuss:
 •	Distribution strategies.
 •	Issues specific to international distribution.
 International Pricing Strategy
+===============================
 Explain the strategy for marketing within other countries.
 Translation Issues
 Highlight requirements for local product variations.
 SUCCESS METRICS
+===============
 List:
-•	First year goals.
-•	Additional year goals.
-•	Requirements for success.
-•	Measures of success/failure.
+1	First year goals.
+2	Additional year goals.
+3	Requirements for success.
+4	Measures of success/failure.
 SCHEDULE
+===============
 18-Month Schedule Highlights
 Outline highlights of the first 18 months.
 Timing
+========
 Identify timing dependencies critical to success.
 MARKETING SCHEDULE
+==================
  
