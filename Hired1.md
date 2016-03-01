@@ -10,16 +10,18 @@ There are lots of things that the Indian markets are missing, which makes it dif
 We will be one stop shop where US and UK companies will come and ask us to open a whole office in India. 
 The firm will provide the following services. 
 
-1.	Find a reasonably priced office space with full service internet and phone. Pay all bills for property and fixed assets in India. 
+1.	Find a reasonably priced office space with full service internet and phone. 
+2.	Pay all bills for property and fixed assets in India. 
 2.	Company registration in India. 
-3.	Hire professional people to run the business. 
+3.	Hire professional people to run the business. (Full service HR )
 4.	File Taxes, and deal with legal issues. 
 5.	On site company manager to help you with status and resolve client issues. 
-6.	Marketing of company products in India and South East Asia. 
-7.	Air Fare and relocation assistance 
+6.	Marketing of company products. 
+7.	Air Fare and relocation services
 8.	Manage companies, trade fairs. 
 9.	Monthly online expense report and Live camera feed of the office.
-10.	Hire for project. 
+10.	Monitor Employees performance and reporting.
+11.	Hire for project. 
 
 Industry Analysis 
 ==================
