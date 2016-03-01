@@ -39,28 +39,36 @@ Review changes in the market, which can include:
 Market Cycle
  
 Product Definition
+==================
 Describe the product or service being marketed.
 COMPETITIVE LANDSCAPE
+==================
 Provide an overview of product competitors.
 Competitor A
+==================
 •	Competitors’ strengths
 •	Competitors’ weaknesses
 Competitor B
+==================
 •	Competitors’ strengths
 •	Competitors’ weaknesses
 PRODUCT COMPARISON AND POSITIONING
+==================================
 Positioning of Product or Service
 Distinctly define the product in its market and against its competition over time.
 Position each competitor’s product against the new product.
  
 Consumer Promise
+==================
 Summarize the benefit of the product or service to the consumer.
 COMMUNICATION STRATEGIES
+===========================
 Messaging by Audience
 List marketing messages for different audiences.
 Targeted Consumer Demographics
 List the demographics for the targeted consumer groups.
 LAUNCH STRATEGIES
+=====================
 Launch Plan
 Discuss launch plan if the product is being announced.
 Promotion Budget
@@ -68,26 +76,31 @@ Supply backup material with detailed budget information for review.
 Promotional Schedule
  
 PUBLIC RELATIONS STRATEGY AND EXECUTION
+=========================================
 Discuss:
 •	PR strategies.
 •	PR plan highlights.
 •	Backup PR plan, including editorial calendars, speaking engagements, conference schedules, etc.
 ADVERTISING STRATEGY AND EXECUTION
+====================================
 Give:
 •	Overview of strategy.
 •	Overview of media and timing.
 •	Overview of ad spending.
 OTHER PROMOTION
+================
 Direct Marketing
 Give:
 •	Overview of strategy, vehicles, and timing.
 •	Overview of response targets, goals, and budget.
-Third-Party Marketing
-Describe co-marketing arrangements with other companies.
+
 Marketing Programs
+======================
 Describe other promotional programs.
 PACKAGING AND FULFILLMENT
+=========================
 Product Packaging
+
 Discuss:
 •	Form-factor, pricing, look, and strategy.
 •	Fulfillment issues for items not shipped directly with the product.
