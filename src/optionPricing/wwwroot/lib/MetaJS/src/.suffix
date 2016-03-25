@@ -1,0 +1,11 @@
+
+    Meta.Option = MetaOption;
+
+    Meta.Processor = {
+        Interface: InterfaceProcessor,
+        Chain:     ChainProcessor
+    };
+
+    global.Meta = Meta;
+
+})(this);

@@ -1,0 +1,23 @@
+
+    Helper.extend(Entity, {
+        Helper:       Helper,
+        Manager:      Manager,
+        Class:        Class,
+        ClassBuilder: ClassBuilder,
+        Event:        Event
+    })
+
+    Entity.Meta.Class = new Meta({
+        constants:        ConstantsProcessor,
+        class_properties: PropertiesProcessor,
+        class_methods:    MethodsProcessor
+    })
+
+    Entity.Meta.Object = new Meta({
+        properties:       PropertiesProcessor,
+        methods:          MethodsProcessor
+    })
+
+    global.Entity = Entity;
+
+})(this);

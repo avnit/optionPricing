@@ -1,0 +1,20 @@
+{
+  "name": "MetaJS",
+  "version": "0.1.1",
+  "ignore": [
+    "node_modules",
+    "Gruntfile.js",
+    "package.json",
+    "bower.json"
+  ],
+  "homepage": "https://github.com/alexpods/MetaJS",
+  "_release": "0.1.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.1.1",
+    "commit": "c6adbd2fc89a3184c76c912ea7700e630ca22768"
+  },
+  "_source": "git://github.com/alexpods/MetaJS.git",
+  "_target": "~0.1.1",
+  "_originalSource": "MetaJS"
+}

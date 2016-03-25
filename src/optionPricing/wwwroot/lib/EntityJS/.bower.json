@@ -1,0 +1,23 @@
+{
+  "name": "EntityJS",
+  "version": "0.2.1",
+  "ignore": [
+    "node_modules",
+    "Gruntfile.js",
+    "package.json",
+    "bower.json"
+  ],
+  "dependencies": {
+    "MetaJS": "~0.1.1"
+  },
+  "homepage": "https://github.com/alexpods/EntityJS",
+  "_release": "0.2.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.2.1",
+    "commit": "f1c78dbaddae6ccc63b3cd8134e56f38b9b7f140"
+  },
+  "_source": "git://github.com/alexpods/EntityJS.git",
+  "_target": "^0.2.1",
+  "_originalSource": "EntityJS"
+}

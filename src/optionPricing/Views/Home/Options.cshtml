@@ -4,11 +4,24 @@
 <script type="text/javascript" src="~/lib/jquery/dist/jquery.min.js"></script>
 <script type="text/javascript" src="~/lib/jqwidgets/jqwidgets/jqx-all.js"></script>
 <script type="text/javascript" src="~/js/Options.js"></script>
-<div class="jqx-bottom-align">
+
+<!-- adding bootstrap to the solution-->
+<link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+<script type="text/javascript" src="~/lib/bootstrap/dist/bootstrap.js"></script>
+
+<link href="~/lib/bootswatch/cosmo/bootstrap.css" rel="stylesheet" />
+
+
+<div class="col-md-3">
     <form>
-        <label>Enter the ticker</label>
-        <input id="ticker" />
-        <input id="button" type="submit" value="Run" class="jqx-action-button"/>
+        <label class="input-group">Enter the ticker</label>
+        <input id="ticker"  class="input-sm"/>
+        <br/>
+        <input id="button" type="submit" value="Run" class="btn-group btn-default"/>
     </form>
 
 </div>
+<div class="col-md-9">
+    <div id="JqGrid" class=""></div>
+</div>
+
