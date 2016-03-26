@@ -6,7 +6,11 @@ using Microsoft.AspNet.Builder;
 using Microsoft.AspNet.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+
 using Microsoft.Extensions.Logging;
+using optionPricing.Models;
+
+
 
 namespace optionPricing
 {
@@ -28,6 +32,12 @@ namespace optionPricing
         {
             // Add framework services.
             services.AddMvc();
+
+            services.AddEntityFramework()
+                .AddSqlServer()
+                .AddDbContext<stockContext>();
+              
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
