@@ -13,7 +13,7 @@ namespace optionPricing.Models
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer();
+          //  optionsBuilder.UseSqlServer();
 
             base.OnConfiguring(optionsBuilder);
         }
