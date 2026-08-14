@@ -155,4 +155,20 @@ Timing
 Identify timing dependencies critical to success.
 MARKETING SCHEDULE
 ==================
- 
+
+<!-- ARCH-DIAGRAM:START -->
+
+## Architecture
+
+> Auto-generated architecture diagram. See [`docs/context-map.md`](docs/context-map.md) for the full context map (core application, containers/cloud, and database connections).
+
+```mermaid
+flowchart TD
+  User([User / Client])
+  App["optionPricing<br/>Express / Node"]
+  SVC0["Azure"]
+  User --> App
+  App --> SVC0
+```
+
+<!-- ARCH-DIAGRAM:END -->
